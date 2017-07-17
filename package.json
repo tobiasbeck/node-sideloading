@@ -1,0 +1,11 @@
+{
+  "name": "self-update",
+  "version": "1.0.0",
+  "description": "a npm server that sideloads packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
